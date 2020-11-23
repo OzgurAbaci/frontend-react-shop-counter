@@ -63,7 +63,6 @@ function App() {
                 <Log
                     history = {history}
                 />
-                {/*{history.map((step, i) => (<div key={i}>{step}</div>))}*/}
             </div>
         </>
 
